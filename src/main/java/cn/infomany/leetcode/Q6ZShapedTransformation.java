@@ -1,4 +1,4 @@
-package cn.infomany;
+package cn.infomany.leetcode;
 
 /**
  * 6. Z 字形变换

@@ -1,4 +1,4 @@
-package cn.infomany;
+package cn.infomany.leetcode;
 
 import java.util.Comparator;
 import java.util.HashSet;
